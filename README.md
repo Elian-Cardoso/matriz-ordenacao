@@ -22,4 +22,4 @@ Estrutura
 
 # Main.java: interage com o usuário e mostra os resultados das ordenações.
 
-Aprendi com esse projeto a manipular matrizes, aplicar algoritmos de ordenação e organizar o código em classes e métodos, sem usar recursos prontos do Java.
+Aprendi com esse projeto a manipular matrizes, aplicar algoritmos de ordenação e organizar o código em classes e métodos.
